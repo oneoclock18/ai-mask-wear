@@ -22,4 +22,4 @@
 <img src="https://i.ibb.co/JpzsyY1/2021-10-24-213848.png" alt="2021-10-24-213848" border="0">
 
 # 사용해보기
-<a href="https://checkwearmask.netlify.app/">웹으로 사용하기</a>
+* <a href="https://checkwearmask.netlify.app/">웹으로 사용하기</a>
