@@ -1,4 +1,4 @@
-# js-mask-wear
+# ai-mask-wear
 <b>2021 영재원 산출물</b><br>
 
 # 소개
@@ -23,3 +23,4 @@
 
 # 사용해보기
 * <a href="https://checkwearmask.netlify.app/">웹으로 사용하기</a>
+* 
