@@ -23,4 +23,4 @@
 
 # 사용해보기
 * <a href="https://checkwearmask.netlify.app/">웹으로 사용하기</a>
-* 
+* <a href="https://github.com/oneoclock18/ai-mask-wear/releases">안드로이드 앱으로 사용하기</a>
