@@ -55,6 +55,9 @@
           case "마스크를 착용하지 않았거나 잘못된 마스크를 착용":
           resultMessage = "마스크를 착용하지 않았습니다. 마스크를 착용해주세요."
             break;
+          case "얼굴이 인식되지 않음":
+          resultMessage = "얼굴이 인식되지 않았습니다."
+            break;
           default:
             resultMessage = "알 수 없습니다."
           }
